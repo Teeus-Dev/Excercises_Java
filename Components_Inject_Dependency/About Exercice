@@ -1,0 +1,10 @@
+Programa que leia os dados de um funcionário (nome,salário bruto) e depois mostrar o salario líquido.
+
+Regras:
+1) Imposto é 20%
+2) Prividência é 10%
+
+Exemplo:
+	Nome: Maria
+	Salário bruto: 4000.00
+	Salário líquido: 2800.00
